@@ -22,6 +22,24 @@
 </div>
 </li>
   
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="springerimage.jpg" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">ECIR</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://www.scss.tcd.ie/Doug.Leith/pubs/ecis23.pdf">Plausible Deniability of Redacted Text</a></div>
+      <div class="author"><strong>Vaibhav Gusain</strong>, Doug leith</div>
+      <div class="periodical"><em> 19th DPM International Workshop on Data Privacy Management </strong>, 2024.</em>
+      </div>
+    <div class="links">
+      <a href="https://www.scss.tcd.ie/Doug.Leith/pubs/ecis23.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://www.scss.tcd.ie/Doug.Leith/bibtex.php?id=1142" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
+    </div>
+  </div>
+</div>
+</li>
 <br>
 
 </ol>

@@ -15,7 +15,7 @@
       <div class="periodical"><em>45th European Conference on Information Retrieval, ECIR 2023, Dublin, Ireland, April 2–6, 2023, Proceedings, Part II <strong>(ECIR)</strong>, 2023.</em>
       </div>
     <div class="links">
-      <a href="https://www.scss.tcd.ie/Doug.Leith/pubs/ecis23.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://www.scss.tcd.ie/Doug.Leith/pubs/DPM-6.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://www.scss.tcd.ie/Doug.Leith/bibtex.php?id=1132" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
     </div>
   </div>
